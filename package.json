@@ -1,0 +1,14 @@
+{
+  "name": "aws-springboot-fullstack-sample",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": ">=24 <25"
+  },
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "build:frontend": "npm --prefix frontend run build",
+    "preview:frontend": "npm --prefix frontend run preview",
+    "dev:backend": "cd backend && mvn spring-boot:run"
+  }
+}
