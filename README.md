@@ -47,6 +47,12 @@ npm run dev           # frontend
 npm run dev:backend   # backend
 ```
 
+## Screenshots
+
+Main UI:
+
+![Spring Boot Job Runner UI](assets/screenshots/app-ui.png)
+
 ## Next AWS steps
 
 This starter is ready for migration to AWS deployment options such as:
