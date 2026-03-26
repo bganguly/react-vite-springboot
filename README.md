@@ -2,6 +2,12 @@
 
 Starter project with a React UI and a local Spring Boot backend.
 
+## Screenshots
+
+Main UI:
+
+![Spring Boot Job Runner UI](assets/screenshots/app-ui.png)
+
 ## Structure
 
 - `frontend`: React + TypeScript + Vite UI
@@ -46,12 +52,6 @@ From repo root:
 npm run dev           # frontend
 npm run dev:backend   # backend
 ```
-
-## Screenshots
-
-Main UI:
-
-![Spring Boot Job Runner UI](assets/screenshots/app-ui.png)
 
 ## Next AWS steps
 
